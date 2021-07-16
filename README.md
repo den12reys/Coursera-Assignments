@@ -1,4 +1,5 @@
-# Coursera-Assignments
+# Checkpoint 1
+## Coursera-Assignments
 Assignments that I submitted on coursera
 | Notebooks   | Links       |
 | ----------- | ----------- |
